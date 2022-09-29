@@ -202,13 +202,16 @@ text-align: end;
  color: #324d67;
 
 }
+
 .products-heading h2{
   font-size: 40px;
   font-weight: 800;
 }
 .products-heading p{
-  font-size: 16px;
+  font-size: 23px;
   font-weight: 200;
+  font-family: cursive;
+  color: #07090c;
 }
 .footer-banner-container{
   padding: 100px 40px;
