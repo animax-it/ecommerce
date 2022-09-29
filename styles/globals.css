@@ -145,7 +145,7 @@ width: 100%;
    border-radius: 15px;
   padding: 10px 16px;
   background-color: #f02d34;
-  color: white;
+  color: rgb(70, 59, 59);
   border: none;
   margin-top: 40px;
   font-size: 18px;
@@ -155,7 +155,7 @@ width: 100%;
 }
 
 .hero-banner-container h3{
-  font-size: 4rem;
+  font-size: 3rem;
   margin-top: 4px;
 }
 .hero-banner-container h1{
@@ -166,10 +166,10 @@ width: 100%;
 }
 .hero-banner-image{
   position: absolute;
-  top: 0%;
-  right:20%;
+  top: 025%;
+  right:7%;
   width: 450px;
-  height: 450px;
+  height: 250px;
 }
 
 
@@ -231,14 +231,14 @@ text-align: end;
   background-color: white;
   color: red;
   border: none;
-  margin-top: 40px;
+  margin-top: 25px;
   font-size: 18px;
   font-weight: 500;
   cursor: pointer;
 }
 .banner-desc .left h3{
   font-weight: 900;
-  font-size: 80px;
+  font-size: 50px;
   margin-left: 25px;
 }
 .banner-desc .left p{
@@ -250,6 +250,8 @@ text-align: end;
   left: 8%; */
   top: -25%;
   left: 25%;
+  border: 5px solid rgb(32, 24, 24);;
+  
 }
 .banner-desc .right{
   line-height: 1.4;
